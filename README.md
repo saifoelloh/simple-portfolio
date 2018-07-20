@@ -1,4 +1,5 @@
 Halaman Portfolio Sederhana
+![simplePortfolio](./img/sample.jpg "opt title")
 
 Alat yang harus disiapkan :
   1. Code Editor
